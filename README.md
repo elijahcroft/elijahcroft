@@ -1,4 +1,4 @@
-# Welcome to Elijah Croft's GitHub Portfolio 🚀
+# Welcome to my GitHub 🚀
 
 Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for coding, problem-solving, and making impactful projects. Welcome to my GitHub, where I showcase my projects, skills, and interests.
 
@@ -35,7 +35,7 @@ Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for codi
 ## Get in Touch 📬
 
 - **Website:** [elijahcroft.com](http://elijahcroft.com)  
-- **Email:** [elijahcroft49@csu.fullerton.edu] 
-- **LinkedIn:** [[ LinkedIn Profile]  ](https://www.linkedin.com/in/elijah-croft-1199212b5/)
+- **Email:** elijahcroft49@csu.fullerton.edu
+- **LinkedIn:** (https://www.linkedin.com/in/elijah-croft-1199212b5/)
 
 Feel free to explore my repositories, open issues, or contribute! 😊
