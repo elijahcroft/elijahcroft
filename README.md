@@ -6,12 +6,8 @@ Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for codi
 
 ## About Me 🌟
 
-- **💻 Expertise:** Python, Java, C++, with interests in Rust and Scala.  
-- **🛠 Projects:**  
-  - A Discord bot using OpenAI APIs, hosted on a personal Arch Linux server.  
-  - A Rust ASCII terminal display focused on minimizing data costs and deep integration with Linux.  
-  - A Rubik's Cube Scrambler and Timer built in Python during AP Computer Science.  
-- **🎮 Interests:** AI, systems programming, and collaborative problem-solving.  
+- **💻 Expertise:** Python, Java, C++, with interests in Rust and Scala.    
+- **🎮 Interests:** AI, systems programming, rubik's cubes, chess, and collaborative problem-solving.  
 - **📚 Currently Learning:** Scala, Microsoft UI Certification, and refining my Spanish.  
 
 ---
