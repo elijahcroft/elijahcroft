@@ -6,7 +6,7 @@ Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for codi
 
 ## About Me 🌟
 
-- **💻 Expertise:** Python, Java, C++, with interests in Rust and Scala.    
+- **💻 Skills:** Python, Java, C++, with interests in Rust and Scala.    
 - **🎮 Interests:** AI, systems programming, rubik's cubes, chess, and collaborative problem-solving.  
 - **📚 Currently Learning:** Scala, Microsoft UI Certification, and refining my Spanish.  
 
@@ -22,9 +22,6 @@ Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for codi
 - Focused on minimizing data costs.  
 - Gave me a deep understanding of Linux OS operations and efficiency.  
 
-### 🕰️ Rubik's Cube Scrambler and Timer
-- A Python application generating unique scrambles.  
-- Includes a timer for Rubik's Cube enthusiasts.
 
 ---
 
