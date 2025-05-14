@@ -18,9 +18,11 @@ Hello! 👋 I'm Elijah, a self-taught freshman developer with a passion for codi
 - Utilizes OpenAI APIs for conversational capabilities.  
 - Built and hosted on a personal Arch Linux server.  
 
-### 🛠 Rust ASCII Terminal Display
-- Focused on minimizing data costs.  
-- Gave me a deep understanding of Linux OS operations and efficiency.  
+### 🛠 SafeSubstance.org
+- Focused on minimizing layers of friction to important drug information.  
+- Made a safe space for peers to practice harm reduction without judgemenr.
+- l
+- Collaborated with other harm reduction orgs to be as helpful as possible.
 
 
 ---
