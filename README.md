@@ -12,21 +12,6 @@ Hello! 👋 I'm Elijah, a self-taught sophmore developer with a passion for codi
 
 ---
 
-## Highlighted Projects 🚀
-
-### 🧠 AI Discord Bot
-- Utilizes OpenAI APIs for conversational capabilities.  
-- Built and hosted on a personal Arch Linux server.  
-
-### 🛠 SafeSubstance.org
-- Focused on minimizing layers of friction to important drug information.  
-- Made a safe space for peers to practice harm reduction without judgemenr.
-- l
-- Collaborated with other harm reduction orgs to be as helpful as possible.
-
-
----
-
 ## Get in Touch 📬
 
 - **Website:** [elijahcroft.com](http://elijahcroft.com)  
