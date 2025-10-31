@@ -1,6 +1,6 @@
 # Welcome to my GitHub 🚀
 
-Hello! 👋 I'm Elijah, a self-taught sophmore developer with a passion for coding, problem-solving, and making impactful projects. Welcome to my GitHub, where I showcase my projects, skills, and interests.
+Hello! 👋 I'm Elijah, a sophmore developer with a passion for coding, problem-solving, and making impactful projects. Welcome to my GitHub, where I showcase my projects, skills, and interests.
 
 ---
 
