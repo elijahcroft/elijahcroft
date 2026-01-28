@@ -1,18 +1,18 @@
-# Welcome to my GitHub 🚀
+# Welcome to my GitHub 
 
-Hello! 👋 I'm Elijah, a sophmore developer with a passion for coding, problem-solving, and making impactful projects. Welcome to my GitHub, where I showcase my projects, skills, and interests.
-
----
-
-## About Me 🌟
-
-- **💻 Skills:** Python, Java, C++, with interests in Rust and Scala.    
-- **🎮 Interests:** AI, systems programming, rubik's cubes, chess, and collaborative problem-solving.  
-- **📚 Currently Learning:** Scala, Microsoft UI Certification, and refining my Spanish.  
+Hello! I'm Elijah, a sophmore developer with a passion for coding, problem-solving, and making impactful projects. Welcome to my GitHub, where I showcase my projects, skills, and interests.
 
 ---
 
-## Get in Touch 📬
+## About Me 
+
+- **Skills:** Python, Java, C++, with interests in Rust and Scala.    
+- **Interests:** AI, systems programming, rubik's cubes, chess, and collaborative problem-solving.  
+- **Currently Learning:** Scala, Microsoft UI design, and refining my Spanish.  
+
+---
+
+## Get in Touch 
 
 - **Website:** [elijahcroft.com](http://elijahcroft.com)  
 - **Email:** elijahcroft49@csu.fullerton.edu
