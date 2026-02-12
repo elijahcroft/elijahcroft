@@ -11,4 +11,4 @@ Hello! I'm Elijah, a sophmore developer with a passion for coding, problem-solvi
 
 Feel free to explore my repositories, open issues, or contribute! 😊
 
-![alt text](https://github.com/elijahcroft/elijahcroft/blob/main/cat_coffee.jpg?raw=true)
+![alt text](https://github.com/elijahcroft/elijahcroft/blob/main/cat_coffee-removebg-preview.png?raw=true)
