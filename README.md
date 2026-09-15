@@ -3,7 +3,7 @@
 
 
 ## About Me 
-- **Interests:** AI, Systems Programming, Robotics, Rubik's cubes, Chess, and collaborative problem-solving.  
+- **Interests:** AI, Philosophy, Systems Programming, Robotics, Rubik's cubes, Chess, and collaborative problem-solving.  
 
 ## Get in Touch 
 - **Email:** elijahcroft49@csu.fullerton.edu
